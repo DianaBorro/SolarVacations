@@ -31,7 +31,6 @@ function App() {
         </button>
       </section>
       <div className="ticks"></div>
-      {/*checking the rules*/}
       <MarsWeather />
       <section id="next-steps">
         <div id="docs">
